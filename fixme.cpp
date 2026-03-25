@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int a = 5
+    int a = 100
     int b = 10;
 
     if (a < b)
